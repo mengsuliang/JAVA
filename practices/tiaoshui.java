@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 2、请把打最高分的评委和最低分的评委打出来。
 */
 
-public class tiaoshui {
+public class Tiaoshui {
 	public static void main(String[]args) {
 		Referee rf = new Referee();
 		try {
@@ -143,3 +143,4 @@ class Dive{
 	}	
 	
 }
+
